@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="B:\Archives\Unity Projects\Udemy Tutorial" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="DecalControl.cs" t="Include" />
+        <e p="Fantasy Skybox FREE" t="Include">
+          <e p="Demo" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="GE_FantasySkyboxFREE_Demo.cs" t="Include" />
+              <e p="GE_FantasySkyboxFREE_UIs.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Fog and Ambient references.txt" t="Include" />
+          <e p="ReadMe.txt" t="Include" />
+        </e>
+        <e p="First" t="Include">
+          <e p="10 Basic Lambert" t="Include">
+            <e p="Basic Blinn.shader" t="Include" />
+            <e p="Basic Lambert.shader" t="Include" />
+          </e>
+          <e p="11 tranparent" t="Include">
+            <e p="Leaves.shader" t="Include" />
+          </e>
+          <e p="12 Hologram" t="Include">
+            <e p="Hologram.shader" t="Include" />
+          </e>
+          <e p="13 Blending" t="Include">
+            <e p="BlendTest.shader" t="Include" />
+          </e>
+          <e p="14 Basic Texture Blend" t="Include">
+            <e p="BasicTextureBlend.shader" t="Include" />
+          </e>
+          <e p="15 Stelcil Buffer" t="Include">
+            <e p="Hole.shader" t="Include" />
+            <e p="Wall.shader" t="Include" />
+          </e>
+          <e p="16 Advanced Stencils" t="Include">
+            <e p="BumpDiffuseStencil.shader" t="Include" />
+            <e p="Normal Wall.shader" t="Include" />
+            <e p="StencilWindow.shader" t="Include" />
+          </e>
+          <e p="2" t="Include">
+            <e p="PackedPractice.shader" t="Include" />
+          </e>
+          <e p="4" t="Include">
+            <e p="Shader4.shader" t="Include" />
+          </e>
+          <e p="5" t="Include">
+            <e p="BumpedEnv.shader" t="Include" />
+            <e p="MyBumpedEnvironment.shader" t="Include" />
+          </e>
+          <e p="6 Dot Product" t="Include">
+            <e p="Dot Product.shader" t="Include" />
+          </e>
+          <e p="7 Rim Lightning" t="Include">
+            <e p="Rim.shader" t="Include" />
+          </e>
+          <e p="8 Basic Blinn" t="Include">
+            <e p="BasicLambert.shader" t="Include" />
+          </e>
+          <e p="9 Standart PBR" t="Include">
+            <e p="Challenge1.shader" t="Include" />
+            <e p="StandartPBR.shader" t="Include" />
+            <e p="StandartSpecPBR.shader" t="Include" />
+          </e>
+          <e p="AllProps.shader" t="Include" />
+          <e p="Cartoon" t="Include">
+            <e p="Cartoon.shader" t="Include" />
+            <e p="Toon.shader" t="Include" />
+          </e>
+          <e p="PropertiesChallenge3.shader" t="Include" />
+          <e p="Test Capsule" t="Include">
+            <e p="TestCapsule.shader" t="Include" />
+          </e>
+          <e p="ToonRamp" t="Include">
+            <e p="ToonRamp.shader" t="Include" />
+          </e>
+        </e>
+        <e p="NewImageEffectShader.shader" t="Include" />
+        <e p="Rotater.cs" t="Include" />
+        <e p="Sandbox" t="Include">
+          <e p="1 skybox" t="Include">
+            <e p="Skybox.shader" t="Include" />
+          </e>
+          <e p="2 cobblestone" t="Include">
+            <e p="CobbleStone.shader" t="Include" />
+          </e>
+          <e p="3 Dot Practice" t="Include">
+            <e p="Dot Practice.shader" t="Include" />
+          </e>
+          <e p="4" t="Include">
+            <e p="Warping.shader" t="Include" />
+          </e>
+        </e>
+        <e p="Vertex and Fragment" t="Include">
+          <e p="1" t="Include">
+            <e p="BasicVF.shader" t="Include" />
+          </e>
+          <e p="10" t="Include">
+            <e p="UVScroll.shader" t="Include" />
+            <e p="UVScrollWater.shader" t="Include" />
+          </e>
+          <e p="11 Plasma" t="Include">
+            <e p="Plasma.shader" t="Include" />
+          </e>
+          <e p="2 V and F Colouring" t="Include">
+            <e p="ColourVF.shader" t="Include" />
+          </e>
+          <e p="3 Monitor" t="Include">
+            <e p="VFMat.shader" t="Include" />
+          </e>
+          <e p="4" t="Include">
+            <e p="VFColouredMat.shader" t="Include" />
+            <e p="VFDiffuse.shader" t="Include" />
+          </e>
+          <e p="5" t="Include">
+            <e p="Hazır VFDiffuseShadows.shader" t="Include" />
+            <e p="VFDiffuse Shadows.shader" t="Include" />
+            <e p="ödev VFDiffuseColouredShadows.shader" t="Include" />
+          </e>
+          <e p="6 V Extruding" t="Include">
+            <e p="Extrude.shader" t="Include" />
+          </e>
+          <e p="7 Outlining" t="Include">
+            <e p="Advanced Outline 1.shader" t="Include" />
+            <e p="Simple Outline.shader" t="Include" />
+          </e>
+          <e p="8 Glass" t="Include">
+            <e p="Glass.shader" t="Include" />
+          </e>
+          <e p="9 Waves" t="Include">
+            <e p="Waves.shader" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+      <e p="Udemy Tutorial.sln" t="IncludeFlat" />
+    </e>
+    <e p="C:\Users\MTR\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\MTR\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_Udemy Tutorial.1494134310.00" t="ExcludeRecursive" />
+  </component>
+</project>
